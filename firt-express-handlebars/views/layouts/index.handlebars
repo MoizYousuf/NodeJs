@@ -1,0 +1,31 @@
+<div class="navbar">
+    <div class="navbaritems">
+        <a href="/">Add UserData</a>
+        <a href="/delete">Delete UsersData</a>
+        <a href="/update">Update UsersData</a>
+        <a href="/getData">Check UsersData</a>
+    </div>
+</div>
+<div class="body">
+
+    {{# if success}}
+    <section class="success" style="background: lightgreen;">
+        <h2>Successfully Added </h2>
+    </section>
+    {{else}}
+    {{# if error}}
+    <section class="error" style="background: tomato;">
+        <h2>Please Fills all Inputs</h2>
+    </section>
+    {{/if}}
+    {{/if}}
+
+    <h1 style="font-size: 2vw;">Add Users Data</h1>
+    <form action="/submit" method="post">
+        <input type="text" name="Firstname" placeholder="Firstname" class="inputsAdd"><br />
+        <input type="text" name="Fathername" placeholder="Fathername" class="inputsAdd"><br />
+        <input type="text" name="Nickname" placeholder="Nickname" class="inputsAdd">
+        <br />
+        <button type="submit" class="addButton">Add</button>
+</div>
+</form>

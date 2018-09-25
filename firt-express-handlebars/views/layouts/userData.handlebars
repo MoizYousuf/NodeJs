@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Delete Users Data</title>
+    <link rel="stylesheet" href="stylesheets/style.css">
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="navbaritems">
+            <a href="/">Add UserData</a>
+            <a href="/delete">Delete UsersData</a>
+            <a href="/update">Update UsersData</a>
+            <a href="/getData">Check UsersData</a>
+        </div>
+    </div>
+    <h1 style="text-align: center;">Users Data</h1>
+    <table width="100%" style="text-align: center;
+     background: lightgray; margin-top: 2%;" border="1px"
+        cellpadding="10" cellspacing="0" rowpan="2">
+        <tr>
+            <th>No</th>
+            <th>Firstname</th>
+            <th>Fathername</th>
+            <th>Nickname</th>
+            <th>ID</th>
+        </tr>
+        {{#each usersData as |val key|}}
+        <tr>
+            <td>
+                {{key}}
+            </td>
+            <td>
+                {{this.firstname}}
+            </td>
+            <td>
+                {{this.fathername}}
+            </td>
+            <td>
+                {{this.nickname}}
+            </td>
+            <td>
+                {{this._id}}
+            </td>
+        </tr>
+        {{/each}}
+    </table>
+</body>
+
+</html>

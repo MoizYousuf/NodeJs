@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Delete Users Data</title>
+    <link rel="stylesheet" href="stylesheets/style.css">
+</head>
+
+<body>
+
+    <div class="navbar">
+        <div class="navbaritems">
+            <a href="/">Add UserData</a>
+            <a href="/delete">Delete UsersData</a>
+            <a href="/update">Update UsersData</a>
+            <a href="/getData">Check UsersData</a>
+        </div>
+    </div>
+    {{# if success}}
+    <section class="success" style="background: lightgreen;   text-align: center;">
+        <h2>Successfully Delete</h2>
+    </section>
+    {{else}}
+    {{# if error}}
+    <section class="error" style="background: tomato; text-align: center;">
+        <h2>Please Fills all Inputs</h2>
+    </section>
+    {{/if}}
+    {{/if}}
+    <form action="/deleteThis" method="POST" class="body">
+        <h1>Delete User Data</h1>
+        <input type="text" placeholder="id" name="id" class="inputsAdd" />
+        <br /><button type="submit" class="addButton">Delete</button>
+    </form>
+</body>
+
+</html>

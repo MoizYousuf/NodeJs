@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5c253906-c99a-4b7a-af28-bece110a754b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/firt-express-handlebars/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/firt-express-handlebars/app.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-472582701">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="1" />
+          <entry key="json" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="txt" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="45" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/firt-express-handlebars/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="698">
+              <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/firt-express-handlebars/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="npm start" />
+      <command text="cd firt-express-handlebars " />
+      <command text="npm start" />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/firt-express-handlebars/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/basic-auth/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/cookie-parser/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/crc/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/define-properties/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/express-handlebars/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/express-session/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/express-validator/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/express-validator/website/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/function-bind/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/has-symbols/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/memory-pager/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/mongodb-core/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/mongodb/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/morgan/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/object-keys/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/object.assign/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/on-headers/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/random-bytes/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/raw-body/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/raw-body/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/saslprep/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/sparse-bitfield/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/uid-safe/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/validator/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/firt-express-handlebars/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Node" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Node" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Node" type="462c0819:PsiDirectoryNode" />
+              <item name="firt-express-handlebars" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c253906-c99a-4b7a-af28-bece110a754b" name="Default Changelist" comment="" />
+      <created>1537863203851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537863203851</updated>
+      <workItem from="1537863207758" duration="331000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="331000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229954" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Command Line Tools Console" weight="0.5485437" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/firt-express-handlebars/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firt-express-handlebars/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
