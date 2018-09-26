@@ -1,0 +1,18 @@
+<div class="card w-75 justify-content-center">
+    <div class="card-body">
+        <h5 class="card-title">Signup</h5>
+        <p class="card-text">
+            <form action="/user/signup" method="POST">
+                <div class="form-group">
+                    <label for="email">Email:</label>
+                    <input type="text" name="email" id="email" class="form-control">
+                </div>
+                <label for="password">password:</label>
+                <input type="password" name="password" id="password" class="form-control">
+    </div>
+    </form>
+    </p>
+    {{!-- <input type="text" name="_csrf" value="{{ csrfToken }}"> --}}
+    <button type="submit" class="btn btn-primary">Signup</button>
+</div>
+</div>
